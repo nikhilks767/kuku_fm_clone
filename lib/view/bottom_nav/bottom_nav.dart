@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:kuku_fm/core/color_constants.dart';
 
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/home_screen.dart';
-import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/new_releases.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/library_screen/library_screen.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/premium_screen/premium_screen.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/search_screen/search_screen.dart';

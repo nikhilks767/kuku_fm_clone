@@ -1,8 +1,6 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:kuku_fm/core/color_constants.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/custom_list_card.dart';
 
@@ -13,6 +11,7 @@ class HistoryTab extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         title: Container(
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(20),

@@ -9,13 +9,11 @@ import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/custom_card.
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/custom_heading.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/custom_list_card.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/listening_schedule.dart';
-import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/new_releases.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/sliding_card_widget.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/sliding_circle_avatar.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/home_screen/widgets/top20.dart';
-import 'package:kuku_fm/view/bottom_nav/screens/library_screen/tabs/history_tab.dart';
 import 'package:kuku_fm/view/bottom_nav/screens/profile_screen/profile_screen.dart';
-import 'package:kuku_fm/view/bottom_nav/screens/search_screen/search_screen.dart';
+
 import 'package:kuku_fm/view/dummy_db.dart';
 
 class HomeScreen extends StatefulWidget {
